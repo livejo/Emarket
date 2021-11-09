@@ -11,7 +11,8 @@ import { IProduct } from '../shared/models/product';
   providedIn: 'root'
 })
 export class ShopService {
-  baseUrl = 'https://localhost:5001/api/';
+  // baseUrl = 'http://localhost:5002/api/';
+  baseUrl = 'https://ethio-shop.herokuapp.com/api/';
 
   constructor(private http: HttpClient) { }
 
