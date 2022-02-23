@@ -2,12 +2,25 @@
   height: 250px;
 }
 
-img {
+.image {
   object-fit: cover;
-  height: 600px;
+  height: 500px;
   width: 100%;
 }
 
 
 // for the features list
 
+.centered {
+  position: absolute;
+  padding-top: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 52px;
+  text-align: center;
+  color: #B8662A ;
+}
+.video {
+  padding-bottom: 130px;
+}

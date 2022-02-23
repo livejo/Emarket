@@ -1,15 +1,15 @@
 [
   {
     "Id": 1,
-    "Name": "Suits"
-  },
-  {
-    "Id": 2,
     "Name": "Sneakers"
   },
   {
+    "Id": 2,
+    "Name": "Casual"
+  },
+  {
     "Id": 3,
-    "Name": "Dress"
+    "Name": "Running"
   },
   {
     "Id": 4,
